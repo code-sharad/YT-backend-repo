@@ -1,6 +1,7 @@
 {
   "name": "yt-backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "a backend youtube code",
   "main": "index.js",
   "scripts": {
