@@ -12,7 +12,7 @@ app.use(
 
 app.use(
     express.json({
-        limit: "18kb",
+        limit: "28kb",
     })
 );
 
